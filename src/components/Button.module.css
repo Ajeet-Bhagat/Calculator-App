@@ -1,0 +1,13 @@
+button{
+  margin: 10px;
+  width: 80px;
+  height: 80px;
+  color: black;
+  background-color: cyan;
+}
+
+.Subdiv{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.Main{
+  width: 350px;
+  border: 6px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+hr{
+  border: 2px solid;
+}
